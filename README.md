@@ -14,11 +14,11 @@ A single page (`index.html`) showing Vecta Corporation’s intro content:
 
 ### Page outline 
 
-- **H1:** Welcome — intro paragraph on Vecta Corp.
+- **H1:** Welcome - intro paragraph on Vecta Corp.
 - **Our Solutions:**
-  - **vProspect 2.0** — audience research & branding.
-  - **vConvert 2.0** — information architecture & user experience.
-  - **vRetain 1.0** — customer retention & revenue growth.
+  **vProspect 2.0** - audience research & branding.
+  **vConvert 2.0** - information architecture & user experience.
+  **vRetain 1.0** - customer retention & revenue growth.
 - **Client Testimonials**
 - **Contact Vecta Corporation** 
 - **Management Team** 
